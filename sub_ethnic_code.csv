@@ -1,0 +1,27 @@
+﻿sub_ethnicid,Sub_Ethnicity,ethnicid
+WH,White,WH
+WH_B,White British,WH
+WH_I,White Irish,WH
+WH_IT,White Irish Traveller,WH
+WH_G,White Gypsy/Roma,WH
+WH_O,White Other,WH
+MX,Mixed,MX
+MX_WBC,Mixed White/Black Caribbean,MX
+MX_WBA,Mixed White/Black African,MX
+MX_WA,Mixed White/Asian,MX
+MX_O,Mixed Other,MX
+AN,Asian,AN
+AN_IN,Indian,AN
+AN_P,Pakistani,AN
+AN_B,Bangladeshi,AN
+AN_O,Asian Other,AN
+BLK,Black,BLK
+BLK_C,Black Caribbean,BLK
+BLK_A,Black African,BLK
+BLK_O,Black Other,BLK
+AN_C,Chinese,AN
+O,Any other ethnic group,O
+U,Unclassified,U
+HL,Hispanic Latino,O
+NHPL,Native Hawaaiaan/Other Pacific Islander,O
+AIAN,American Indian/Alaska Native,O
