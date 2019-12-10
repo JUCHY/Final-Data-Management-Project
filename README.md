@@ -43,7 +43,7 @@ A_levels :
 GCSE :
 [Ethnicity](gcse_data/gcse_20152016_simplified_ethnicity.csv)
 [Language](gcse_data/gcse_20152016_simplified_language.csv)
-[Financial]((gcse_data/gcse_20152016_simplified_financial.csv)
+[Financial](gcse_data/gcse_20152016_simplified_financial.csv)
 
 SAT :
 [Ethnicity](a_levels_data/A_level_attaintment_characteristics_ethnicity.csv)
@@ -51,8 +51,6 @@ SAT :
 [Financial](a_levels_data/A_level_attaintment_characteristics_financial.csv)
 
 ## 3. Data Import and Collection... or Data Generation
-
-__TODO__: Describe any data cleaning, preprocessing, etc. necessary to import data
 No preprocessing neccessary
 Run Scripts in this Order
 [Create Table Script](create-tables.sql)
