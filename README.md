@@ -3,8 +3,6 @@
 ## 1. Documentation
 
 ### Project Description
-
-__TODO__: Add project description.
 To Explore differences in educational performance distributions in the U.S. and U.K, by comparing distributions of GCSE
 scores (in the UK) and SAT scores (in the US).
 
@@ -63,12 +61,5 @@ Run Scripts in this Order
 Goal: To gain an understanding of the distribution of test scores between tests in the UK, and the U.S.
 [Analysis Script](query.sql)
 [CTE + View Location ](https://github.com/nyu-csci-ua-0480-003-fall-2019/JUCHY-mini-project/blob/d3616afed5e6262d793cead3e9c72a534df33566/query.sql#L12)
-
-## 5. Research
-Seaborn: statistical data visualization, used to visualize queries in a way that they make comparisons easier to understand
-
-* __TODO__: Link to documentation / site of new concept or technology used
-* __TODO__: Describe what you'll be using this technology for
-* [__TODO__: Link to application of research in repository](name-of-some-file)
 
 
